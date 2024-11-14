@@ -1,3 +1,7 @@
+# Drew Harvey
+# CIS256 Fall 2024
+# Ex 4
+
 import random
 
 def select_random_word():
