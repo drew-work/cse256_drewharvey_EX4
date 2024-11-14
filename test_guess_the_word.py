@@ -1,3 +1,7 @@
+# Drew Harvey
+# CIS256 Fall 2024
+# Ex 4
+
 import unittest
 from unittest.mock import patch
 import guess_the_word
